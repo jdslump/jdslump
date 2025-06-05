@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on different projects to improve my skills<br><br>🌱 I’m currently learning C++<br>
+🔭 I’m currently working on different projects to improve my skills and capabilites<br><br>🌱 I’m currently learning C++<br>
 
 
 # 💻 Tech Stack:
@@ -11,8 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jdslump&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
